@@ -36,6 +36,7 @@ Para executar a solução localmente, siga estas etapas:
 5. **Execute o Aplicativo**: `flutter run`
 
 Isso iniciará o aplicativo no emulador (Caso tenha mais de um instalado ele solicitará que informe o emulador desejado) ou dispositivo conectado.
+
 Antes de subir o projeto no git foi executado um `flutter clean` por isso o comando `flutter pub get` é necessário.
 
 ---
